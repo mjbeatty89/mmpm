@@ -24,7 +24,7 @@
     "@angular/router": "^19.1.6",
     "@fortawesome/angular-fontawesome": "^0.14.1",
     "@fortawesome/fontawesome-free": "^6.7.2",
-    "monaco-editor": "^0.44.0",
+    "monaco-editor": "^0.55.1",
     "ngx-monaco-editor-v2": "^17.0.1",
     "prettier": "^3.4.2",
     "primeicons": "^6.0.1",
